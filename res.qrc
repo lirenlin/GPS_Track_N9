@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/pics/sat_dish.png</file>
+        <file>qml/js/script.js</file>
+        <file>qml/components/CustomTheme.qml</file>
+        <file>qml/components/StartPage.qml</file>
+        <file>qml/components/TrackPage.qml</file>
+        <file>qml/components/BlueButtonEx.qml</file>
+        <file>qml/components/GreenButtonEx.qml</file>
+        <file>qml/pics/bottom-shadow.png</file>
+        <file>qml/pics/top-shadow.png</file>
+        <file>qml/components/MainPage.qml</file>
+        <file>qml/pics/corner-shadow.png</file>
+        <file>qml/components/UploadPage.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<aegis>
+    <request>
+        <credential name="Location" />
+        <for path="/opt/Poluilla/bin/Poluilla" />
+    </request>
+</aegis>

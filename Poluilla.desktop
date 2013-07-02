@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.2
+Type=Application
+Terminal=false
+Name=Poluilla
+Exec=invoker --single-instance --type=e /opt/Poluilla/bin/Poluilla
+Icon=/usr/share/icons/hicolor/scalable/apps/Poluilla.svg
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
